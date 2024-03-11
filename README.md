@@ -1,4 +1,4 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Gabrielfesta15/github-readme-stats)
+[![Meu Status GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielfesta15)](https://github.com/Gabrielfesta15/github-readme-stats)
