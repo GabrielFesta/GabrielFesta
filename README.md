@@ -1,7 +1,6 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&layout=compact&langs_count=7&theme=tokyonight"/> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="festa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
