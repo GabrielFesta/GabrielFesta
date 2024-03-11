@@ -1,7 +1,6 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFesta&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div style="display: inline_block"><br>
