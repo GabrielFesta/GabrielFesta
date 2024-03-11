@@ -13,5 +13,5 @@
   <img align="center" alt="festa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="festa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  ![snake animation](https://github.com/GabrielFesta/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
