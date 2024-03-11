@@ -1,7 +1,7 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 
 [![My Stats GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFesta&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GabrielFesta/github-readme-stats#gh-dark-mode-only)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvarezGui&layout=compact&langs_count=7&theme=tokyonight"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&layout=compact&langs_count=7&theme=tokyonight"/> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="festa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
