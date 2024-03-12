@@ -1,8 +1,8 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 <div style="display: inline_block">
   <P>GitHub</P>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFesta&show_icons=true&theme=radical"/>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&layout=compact&langs_count=7&theme=radical"/>
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFesta&show_icons=true&theme=radical"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
