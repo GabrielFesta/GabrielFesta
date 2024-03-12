@@ -1,12 +1,14 @@
 ### Olá todos, Meu nome é Gabriel Festa!
 <div style="display: inline_block">
   <P>GitHub</P>
+  <hr></hr>
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFesta&show_icons=true&theme=radical"/>
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFesta&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
   <p>Linguagens</p>
+  <hr></hr>
   <img align="center" alt="festa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="festa-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="festa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
